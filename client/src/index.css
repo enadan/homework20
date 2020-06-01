@@ -1,0 +1,13 @@
+.bg-info{
+  width: 200px;
+}
+
+body{
+  background: #dddddd
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
